@@ -1,4 +1,4 @@
-# Firebase: Facebook Sign-In Authentication
+# Facebook Sign-In Authentication
 
 we will talk about the most trending authentication method of Firebase, i.e., Facebook. Facebook sign-in authentication is quite typical to implement.
 The users can authenticate with Firebase using their Facebook accounts by integrating Facebook logging into our application.
